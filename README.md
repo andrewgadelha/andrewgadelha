@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨‍💻 Desenvolvedor jr
 
-<!--
-**andrewgadelha/andrewgadelha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformo desafios em soluções criativas e eficientes, aplicando conhecimentos acadêmicos em projetos. Com foco em desenvolvimento web, mobile e backend, estou sempre em busca de aprendizado contínuo.
 
-Here are some ideas to get you started:
+## 📚 Formação Acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Superior em Análise e Desenvolvimento de Sistemas**  
+  *FATEC São Caetano do Sul* | Conclusão em 2023
+
+- **Curso Técnico em Informática**  
+  *ETEC Juscelino Kubitschek de Oliveira* | Conclusão em 2017
+
+## 🛠️ Habilidades Técnicas
+
+- **Desenvolvimento Web:**  
+  HTML, CSS, JavaScript, React, Node.js, Tailwind CSS
+
+- **Desenvolvimento Mobile:**  
+  React Native com Expo
+
+- **Linguagens de Programação:**  
+  Java, C++, Visual Basic, PHP
+
+- **Banco de Dados:**  
+  MySQL, MongoDB, Firebase, Supabase
+
+- **Prototipagem e No-Code:**  
+  Figma, Bubble.io
