@@ -1,8 +1,9 @@
-## Welcome, hello world!
+# Welcome, hello world!
 ------------------------
-👋 Hi, my name is Andrew Gadelha <br>
+👋 Hi, my name is Andrew S. Gadelha <br>
 💬 I'm a Junior Software Engineer with a degree in Systems Analysis and Development.<br>
 
+[Linkedin](https://www.linkedin.com/in/andrewgadelha/)
 --------------------------
 
 #### 🔬 Skills
