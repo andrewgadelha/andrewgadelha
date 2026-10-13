@@ -2,30 +2,23 @@
 ------------------------
 👋 Hi, my name is Andrew Gadelha <br>
 💬 I'm a Junior Software Engineer with a degree in Systems Analysis and Development.<br>
-<div width="10px">
-  <a href="https://www.linkedin.com/in/andrewgadelha/" >
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</div>
+
 --------------------------
 
 #### 🔬 Skills
 
-- **Web Development:**  
+- **Development:**  
  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,ts"/>
 
-- **Mobile Development:**  
-  React Native Expo
-
-- **Other Programming Languages:**  
-  Java, C++, Visual Basic, PHP
 
 - **Database:**  
-  MySQL, MongoDB, Firebase, Supabase
 
-- **Prototipe e No-Code:**  
-  Figma, Bubble.io
+   <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,mongodb"/>
+
+- **Others:**  
+
+  Figma, Bubble.io, React Native Expo, Visual Basic
 
 
 	
