@@ -12,7 +12,7 @@
 
 - **Web Development:**  
  
-  <img src="https://skillicons.dev/icons?i=html, css, javascript, react, typescript, tailwind" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind" width="40px"/>
 
 - **Mobile Development:**  
   React Native Expo
