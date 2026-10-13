@@ -9,7 +9,7 @@
 
 - **Development:**  
  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,ts&theme=dark&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,ts&theme=dark&perline=5"/>
 
 
 - **Database:**  
