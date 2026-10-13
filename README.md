@@ -2,7 +2,7 @@
 ------------------------
 👋 Hi, my name is Andrew Gadelha <br>
 💬 I'm a Junior Software Engineer with a degree in Systems Analysis and Development.<br>
-<div width="40px">
+<div width="10px">
   <a href="https://www.linkedin.com/in/andrewgadelha/" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
