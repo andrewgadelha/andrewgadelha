@@ -1,28 +1,36 @@
-# 👨‍💻 Desenvolvedor jr
+## Welcome, hello world!
+------------------------
+👋 Hi, my name is Andrew Gadelha <br>
+💬 I'm a Junior Software Engineer with a degree in Systems Analysis and Development.
+![a](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/)
 
-Transformo desafios em soluções criativas e eficientes, aplicando conhecimentos acadêmicos em projetos. Com foco em desenvolvimento web, mobile e backend, estou sempre em busca de aprendizado contínuo.
+--------------------------
 
-## 📚 Formação Acadêmica
+#### 🔬 Skills
 
-- **Superior em Análise e Desenvolvimento de Sistemas**  
-  *FATEC São Caetano do Sul* | Conclusão em 2023
-
-- **Curso Técnico em Informática**  
-  *ETEC Juscelino Kubitschek de Oliveira* | Conclusão em 2017
-
-## 🛠️ Habilidades Técnicas
-
-- **Desenvolvimento Web:**  
+- **Web Development:**  
   HTML, CSS, JavaScript, React, Node.js, Tailwind CSS
 
-- **Desenvolvimento Mobile:**  
-  React Native com Expo
+- **Mobile Development:**  
+  React Native Expo
 
-- **Linguagens de Programação:**  
+- **Other Programming Languages:**  
   Java, C++, Visual Basic, PHP
 
-- **Banco de Dados:**  
+- **Database:**  
   MySQL, MongoDB, Firebase, Supabase
 
-- **Prototipagem e No-Code:**  
+- **Prototipe e No-Code:**  
   Figma, Bubble.io
+
+
+	
+--------
+#### 🎓 Education
+
+- **Degree in Systems Analysis and Development**  
+  *FATEC São Caetano do Sul*
+
+- **Technical Course in Information Technology**  
+  *ETEC Juscelino Kubitschek de Oliveira*
+
