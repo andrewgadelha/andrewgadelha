@@ -3,7 +3,7 @@
 👋 Hi, my name is Andrew Gadelha <br>
 💬 I'm a Junior Software Engineer with a degree in Systems Analysis and Development.<br>
   <a href="https://www.linkedin.com/in/andrewgadelha/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
 
 --------------------------
@@ -11,7 +11,8 @@
 #### 🔬 Skills
 
 - **Web Development:**  
-  HTML, CSS, JavaScript, React, Node.js, Tailwind CSS
+ 
+  <img src="https://skillicons.dev/icons?i=html, css, javascript, react, typescript, tailwind" width="40px"/>
 
 - **Mobile Development:**  
   React Native Expo
