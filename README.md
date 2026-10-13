@@ -2,7 +2,7 @@
 ------------------------
 👋 Hi, my name is Andrew Gadelha <br>
 💬 I'm a Junior Software Engineer with a degree in Systems Analysis and Development.<br>
-  <a href="https://www.linkedin.com/in/andrewgadelha/"width="40px">
+  <a href="https://www.linkedin.com/in/andrewgadelha/" width="40px">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -12,7 +12,7 @@
 
 - **Web Development:**  
  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind" width="60px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind"/>
 
 - **Mobile Development:**  
   React Native Expo
