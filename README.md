@@ -9,12 +9,12 @@
 
 - **Development:**  
  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,ts"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,ts&theme=dark&perline=3"/>
 
 
 - **Database:**  
 
-   <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,mongodb"/>
+   <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,mongodb&theme=dark"/>
 
 - **Others:**  
 
