@@ -39,7 +39,7 @@ Tenho curiosidade por novas tecnologias e interesse em entender as soluções �
 ## `02 / AI BUILDER — CREATIVE ENGINE`
 
 <p align="center">
-  <img src="./assets/ai-builder-creative-engine.png" alt="AI Builder / Creative Engine: processo de criação assistida por IA, da ideação à avaliação e impacto." width="100%" />
+  <img src="./assets/criativo_ fluxo.png" alt="AI Builder / Creative Engine: processo de criação assistida por IA, da ideação à avaliação e impacto." width="100%" />
 </p>
 
 **Human direction × AI execution.**
