@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Andrew Gadelha — Pensar. Experimentar. Construir." width="100%" />
+  <img src="./assets/banner.png" alt="Andrew Gadelha — Pensar. Experimentar. Construir." width="100%" />
 </p>
 
 <p align="center">
