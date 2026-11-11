@@ -128,7 +128,7 @@ Também sigo explorando o desenvolvimento assistido por IA, novas ferramentas e 
   <a href="https://github.com/andrewgadelha">GITHUB</a>
 </p>
 
-<p align="center">
+<p>
   <img src="./assets/organic-footer.png" alt="Faixa orgânica em roxo e magenta, representando ideias e conexões em movimento." width="100%" />
 </p>
 
