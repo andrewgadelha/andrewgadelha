@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Andrew Gadelha — ideias viram experiências, código gera impacto. AI Builder." width="100%" />
+  <img src="./assets/profile-banner.png" alt="Andrew Gadelha — Pensar. Experimentar. Construir." width="100%" />
 </p>
 
 <p align="center">
@@ -36,7 +36,13 @@ Gosto de partir de uma ideia, explorar possibilidades e transformar o conceito e
 
 Tenho curiosidade por novas tecnologias e interesse em entender as soluções — não apenas utilizá-las. Quero construir uma base técnica consistente sem perder a liberdade de experimentar ferramentas e caminhos diferentes.
 
-## `02 / AI BUILDER — COMO EU CONSTRUO`
+## `02 / AI BUILDER — CREATIVE ENGINE`
+
+<p align="center">
+  <img src="./assets/ai-builder-creative-engine.png" alt="AI Builder / Creative Engine: processo de criação assistida por IA, da ideação à avaliação e impacto." width="100%" />
+</p>
+
+**Human direction × AI execution.**
 
 Para mim, ser *AI Builder* não é deixar a tecnologia decidir tudo. É usar IA para ampliar minha capacidade de criação e reduzir o trabalho operacional que não exige minha atenção direta.
 
@@ -58,15 +64,12 @@ Meu interesse está em combinar **pensamento crítico, criatividade e desenvolvi
 **Outras tecnologias e ferramentas que já utilizei ou explorei**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,java,python,mysql,mongodb,supabase,figma,git,github&perline=5&theme=dark" alt="React, Node.js, PHP, Java, Python, MySQL, MongoDB, Supabase, Figma, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java,python,mysql,mongodb,supabase,figma,git,github&perline=5&theme=dark" alt="Node.js, PHP, Java, Python, MySQL, MongoDB, Supabase, Figma, Git e GitHub" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Bubble.io-111018?style=flat-square" alt="Bubble.io" />
   <img src="https://img.shields.io/badge/React%20Native-111018?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Firebase-111018?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-111018?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Figma-111018?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 <sub>Os ícones representam tecnologias com as quais já tive contato; não são uma escala de proficiência.</sub>
@@ -91,12 +94,11 @@ Meu interesse está em combinar **pensamento crítico, criatividade e desenvolvi
 - **[Meus Desafios Criativos](https://github.com/andrewgadelha/meus-desafios-criativos)** — experimentos de ideação e propostas de solução com apoio de prompts e modelos de linguagem.
 - **[Python: Introdução a Agentes de IA](https://github.com/andrewgadelha/python-introducao-agentes-ia)** — exercícios introdutórios de Python realizados durante o bootcamp Bradesco — Agentes de IA. Uma trilha de estudo, não um produto final.
 
-## `05 / GITHUB EM NÚMEROS`
+## `05 / GITHUB ANALYTICS`
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/andrewgadelha?style=for-the-badge&logo=github&label=FOLLOWERS&color=9D4EDD&labelColor=111018" alt="Seguidores no GitHub" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fandrewgadelha&query=%24.public_repos&label=PUBLIC%20REPOS&logo=github&style=for-the-badge&color=FF4FA3&labelColor=111018" alt="Repositórios públicos" />
-  <img src="https://komarev.com/ghpvc/?username=andrewgadelha&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
 </p>
 
 <p align="center">
@@ -104,7 +106,7 @@ Meu interesse está em combinar **pensamento crítico, criatividade e desenvolvi
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrewgadelha&layout=compact&langs_count=6&hide_border=true&bg_color=0D0B12&title_color=C084FC&text_color=E9D5FF" alt="Distribuição de linguagens nos repositórios públicos" />
 </p>
 
-<sub>Os cards consideram dados públicos disponíveis no GitHub. A distribuição de linguagens reflete o código dos repositórios, não o nível de domínio. As estatísticas em cards são fornecidas por serviços externos e podem sofrer instabilidade.</sub>
+<sub>As estatísticas dependem de serviços externos e podem sofrer instabilidade. A distribuição de linguagens reflete o código dos repositórios, não o nível de domínio.</sub>
 
 ## `06 / FORMAÇÃO & DIREÇÃO`
 
@@ -124,6 +126,12 @@ Também sigo explorando o desenvolvimento assistido por IA, novas ferramentas e 
   <a href="https://www.linkedin.com/in/andrewgadelha/">LINKEDIN</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/andrewgadelha">GITHUB</a>
-  <br /><br />
-  <sub>Feito para experimentar. Construído para evoluir.</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/organic-footer.png" alt="Faixa orgânica em roxo e magenta, representando ideias e conexões em movimento." width="100%" />
+</p>
+
+<p align="center">
+  <sub>Feito para experimentar. Construído para evoluir. · @andrewgadelha</sub>
 </p>
