@@ -97,7 +97,6 @@ Meu interesse está em combinar **pensamento crítico, criatividade e desenvolvi
 ## `05 / GITHUB ANALYTICS`
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/andrewgadelha?style=for-the-badge&logo=github&label=FOLLOWERS&color=9D4EDD&labelColor=111018" alt="Seguidores no GitHub" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fandrewgadelha&query=%24.public_repos&label=PUBLIC%20REPOS&logo=github&style=for-the-badge&color=FF4FA3&labelColor=111018" alt="Repositórios públicos" />
 </p>
 
