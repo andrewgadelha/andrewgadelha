@@ -102,7 +102,6 @@ Meu interesse está em combinar **pensamento crítico, criatividade e desenvolvi
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=andrewgadelha&show_icons=true&hide=rank&hide_border=true&bg_color=0D0B12&title_color=C084FC&text_color=E9D5FF&icon_color=FF4FA3&ring_color=FF4FA3" alt="Estatísticas públicas do GitHub" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrewgadelha&layout=compact&langs_count=6&hide_border=true&bg_color=0D0B12&title_color=C084FC&text_color=E9D5FF" alt="Distribuição de linguagens nos repositórios públicos" />
 </p>
 
