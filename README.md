@@ -120,11 +120,13 @@ Também sigo explorando o desenvolvimento assistido por IA, novas ferramentas e 
 <p align="center">
   <strong>IDEIAS VIRAM EXPERIÊNCIAS. CÓDIGO GERA IMPACTO.</strong>
   <br /><br />
-  <a href="https://www.andrewgadelha.com/">PORTFÓLIO</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/andrewgadelha/">LINKEDIN</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/andrewgadelha">GITHUB</a>
+  <sub>
+    <a href="https://www.andrewgadelha.com/">PORTFÓLIO</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/andrewgadelha/">LINKEDIN</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/andrewgadelha">GITHUB</a>
+  </sub>
 </p>
 
 <p>
